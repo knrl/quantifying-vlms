@@ -9,7 +9,7 @@
 ## Repository Structure
 
 ```
-workspace_2/
+quantifying_vlms/
 │
 ├── scripts/                           # Experiment pipeline (phases 0–6)
 │   ├── edge_reliability_gap.py        # Phase 0: sanity check (25+25 rows)
@@ -65,8 +65,8 @@ workspace_2/
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/knrl/<...>
-cd workspace_2
+git clone https://github.com/knrl/quantifying-vlms
+cd quantifying_vlms
 pip install -r requirements.txt
 ```
 
@@ -229,9 +229,9 @@ Datasets are **streamed** via HuggingFace `datasets` — never fully loaded into
   title   = {Edge Reliability Gap in Vision-Language Models:
              Quantifying Failure Modes of Compressed VLMs
              Under Visual Corruption},
-  author  = {Anonymous},
+  author  = {Mehmet Kaan Erol},
   year    = {2026},
-  url     = {https://github.com/knrl/workspace_2}
+  url     = {https://github.com/knrl/quantifying-vlms}
 }
 ```
 
