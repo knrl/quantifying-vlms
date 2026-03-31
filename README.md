@@ -231,7 +231,7 @@ Datasets are **streamed** via HuggingFace `datasets` — never fully loaded into
              Under Visual Corruption},
   author  = {Mehmet Kaan Erol},
   year    = {2026},
-  url     = {https://github.com/knrl/quantifying-vlms}
+  url     = {https://arxiv.org/abs/2603.26769}
 }
 ```
 
